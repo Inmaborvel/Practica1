@@ -1,0 +1,43 @@
+#contenedor{
+    width: 480px;
+    margin: 10px;
+    border: 1px solid #999999;
+    padding: 0%;
+    float: left;
+
+}
+
+#contenedor div{
+    float: left;
+    width: 150px;
+    height: 80px;
+    margin: 3px;
+    border: 2px solid #999999;
+    
+}
+
+#cajasMontadas{
+    width: 480px;
+    margin: 10px;
+    border: 1px solid #999999;
+    padding: 0%;
+    float: left;
+
+}
+
+#cajasMontadas div{
+    float: left;
+    width: 150px;
+    height: 80px;
+    margin: 3px;
+    border: 2px solid #999999;
+
+}
+
+#original{
+    float: left;
+    width:550px;
+    height:300px;
+    transform: translateX(150px);
+   
+}
